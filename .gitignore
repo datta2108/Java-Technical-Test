@@ -2,3 +2,5 @@ bin/
 .vscode/
 *.class
 newfile.txt
+/JSPQuestion3/nbproject/private/
+/JSPQuestion3/build/
